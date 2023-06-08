@@ -1,0 +1,2 @@
+# teststaticsitefor-pranit
+test project 
